@@ -1,0 +1,14 @@
+Results/
+customLibraries/
+DownloadedFiles/
+DownloadedFilesTemp/
+FilesToUpload/
+build/
+
+lastDumpTime.py
+
+# Generated Files
+*.pyc
+*.pyd
+*.c
+*.html

@@ -1,0 +1,2 @@
+python DumpFilesToServer.py
+pause
